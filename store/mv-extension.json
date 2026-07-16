@@ -4,142 +4,149 @@
     {
       "id": "ophim",
       "name": "OPhim",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "iconUrl": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/ophim.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/op.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/op.cine"
     },
     {
       "id": "hh3d",
       "name": "HH3D - Hoạt Hình 3D",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "iconUrl": "https://hoathinh3d.ee/wp-content/uploads/2025/02/cropped-favicon_hh-400x400.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/h3.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/h3.cine"
     },
     {
       "id": "kkphim",
       "name": "KKPhim",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "iconUrl": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/kkphim.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/kk.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/kk.cine"
     },
     {
       "id": "nguonc",
       "name": "Nguồn C",
       "version": "1.1.3",
       "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/nc.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/nc.cine"
     },
     {
       "id": "clbpx",
       "name": "CLB Phim Xưa",
-      "version": "1.0.6",
+      "version": "1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/clbpx.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/px.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/px.cine"
     },,
     {
       "id": "vmttv",
       "name": "VMT TV",
       "version": "1.0.2",
       "iconUrl": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/Logo.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/vmt.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/vmt.cine"
     },
     {
      "id": "rophim9",
       "name": "Rổ Phim 9",
       "version": "1.0.1",
       "iconUrl": "https://rophimz.one/statics/images/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/rp9.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/rp9.cine"
     },
     {
       "id": "bogorraincake",
       "name": "Motchill",
       "version": "1.0.0",
       "iconUrl": "https://bogorraincake.com/wp-content/uploads/2024/12/cropped-favicon2-32x32.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/mc.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/mc.cine"
     },
     {
       "id": "motchilll",
       "name": "MotChilll",
       "version": "1.0.1",
       "iconUrl": "https://motchilli.ac/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/mcc.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/mcc.cine"
     },
     {
       "id": "rophimmoi",
       "name": "RoPhimMoi",
       "version": "1.0.0",
       "iconUrl": "https://www.rophimmoi.biz/wp-content/uploads/2025/10/cropped-uJJ9SiU-32x32.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/rpm.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/rpm.cine"
     },
     {
       "id": "phimtv",
       "name": "PhimTV",
       "version": "1.0.0",
       "iconUrl": "https://phimtv.cv/1day2love/favicon.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/ptv.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/ptv.cine"
     },
     {
       "id": "guphim",
       "name": "GuPhim",
       "version": "1.0.0",
       "iconUrl": "https://guphim.com/assets/icons/favicon-32x32.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/gp.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/gp.cine"
     },
     {
       "id": "cineviet",
       "name": "CineViet",
       "version": "1.0.0",
       "iconUrl": "https://cineviet.live/favicon.svg",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/cnv.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/cnv.cine"
     },
     {
       "id": "1phim",
       "name": "1Phim",
       "version": "1.0.0",
       "iconUrl": "https://www.1phim2.com/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/1p.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/1p.cine"
     },
     {
       "id": "rapphim",
       "name": "RapPhim",
       "version": "1.0.0",
       "iconUrl": "https://rapphim.art/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/rap.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/rap.cine"
     },
     {
       "id": "phimvietsub",
       "name": "PhimVietsub",
       "version": "1.0.3",
       "iconUrl": "https://phimvietsub.im/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/pvs.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/pvs.cine"
     },
     {
       "id": "phimvivu",
       "name": "PhimViVu",
       "version": "1.0.1",
       "iconUrl": "https://phimvivu.lol/wp-content/uploads/2025/08/cropped-FAV_VIVU_2025-32x32.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/pvv.cine"
-    },
-    {
-      "id": "phimtv",
-      "name": "PhimTV",
-      "version": "1.0.0",
-      "iconUrl": "https://phimtv.cv/1day2love/favicon.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/ptv.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/pvv.cine"
     },
     { 
       "id": "newphim",
       "name": "Newphim",
       "version": "1.0.1",
       "iconUrl": "https://www.newphim.net/storage/files/Logo/logo_newphimnet.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/np.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/np.cine"
     },
     { 
       "id": "phimmoivideo",
       "name": "Phim Mới Video",
       "version": "1.0.1",
       "iconUrl": "https://phimmoi.video/images/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mo/pmv.cine"
+      "scriptUrl": "hhttps://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/pmv.cine"
+    },
+     {
+      "id": "ghienphim",
+      "name": "GhienPhim",
+      "version": "1.0.0",
+      "iconUrl": "https://ghienphim.cv/themes/motchill/img/logo.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/ngp.cine"
+    },
+     {
+      "id": "xemphimhd",
+        "name": "XemPhimHD",
+        "version": "1.0.0",
+      "iconUrl": "https://xemphimhd.im/motchill.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/xehd.cine"
     }
   ]
 }

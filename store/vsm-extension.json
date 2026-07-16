@@ -6,35 +6,35 @@
       "name": "PhimNganHDC",
       "version": "1.0.1",
       "iconUrl": "https://phimnganhdc.com/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/so/phdc.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/phdc.cine"
     },
     {
       "id": "netshort",
       "name": "NetShort",
       "version": "1.0.1",
       "iconUrl": "https://netshort.com/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/so/ns.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/ns.cine"
     },
     {
      "id": "vokich",
       "name": "Võ Kịch",
       "version": "1.0.0",
       "iconUrl": "https://vokich.com/ic.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/so/vk.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/vk.cine"
     },
     {
      "id": "dongphimngan",
       "name": "Động Phim Ngắn",
       "version": "1.0.0",
       "iconUrl": "https://dongphimngan.com/uploads/4260e165-e0c7-45e7-9ac1-6740b4f50510-pc.webp",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/so/dpg.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/dpg.cine"
     },
     {
      "id": "dramangan",
       "name": "DramaNgắn",
       "version": "1.0.1",
-      "iconUrl": "hhttps://dramangan.org/static/images/favicon.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/so/drm.cine"
+      "iconUrl": "https://dramangan.org/static/images/favicon.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/drm.cine"
     }
   ]
 }

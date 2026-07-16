@@ -42,6 +42,13 @@
       "version": "1.0.0",
       "iconUrl": "https://nangcuc.cv/wp-content/uploads/2026/06/favicon-150x150.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/nac.cine"
+    },
+     {
+      "id": "vlxvn",
+      "name": "VLXVN",
+      "version": "1.0.1",
+      "iconUrl": "hhttps://vlxvn.live/wp-content/uploads/2025/12/cropped-favicon-192x192.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/vlxn.cine"
     }
   ]
 }

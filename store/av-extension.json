@@ -77,6 +77,20 @@
       "version": "1.0.0",
       "iconUrl": "https://www.boxav.net/assets/favicon.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/ba.cine"
+    },
+     {
+      "id": "videojav",
+      "name": "VideoJav",
+      "version": "1.0.1",
+      "iconUrl": "https://videojav.online/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/vjv.cine"
+    },
+     {
+      "id": "javpog",
+      "name": "JAVPOG",
+      "version": "1.0.1",
+      "iconUrl": "hhttps://javpog.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/jap.cine"
     }
   ]
 }

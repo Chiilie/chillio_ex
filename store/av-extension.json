@@ -98,6 +98,13 @@
       "version": "1.0.0",
       "iconUrl": "https://anysex.com/static/images/favicon-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/aysx.cine"
+    },
+     {
+      "id": "sexart",
+      "name": "SexArt",
+      "version": "1.0.0",
+      "iconUrl": "https://mansitegcdn.metartnetwork.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/sart.cine"
     }
   ]
 }

@@ -89,8 +89,15 @@
       "id": "javpog",
       "name": "JAVPOG",
       "version": "1.0.1",
-      "iconUrl": "hhttps://javpog.com/favicon.ico",
+      "iconUrl": "https://javpog.com/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/jap.cine"
+    },
+     {
+      "id": "anysex",
+      "name": "AnySex",
+      "version": "1.0.0",
+      "iconUrl": "https://anysex.com/static/images/favicon-32x32.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/aysx.cine"
     }
   ]
 }

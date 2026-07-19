@@ -40,8 +40,15 @@
       "id": "tikporn",
       "name": "Tik.Porn",
       "version": "1.0.0",
-      "iconUrl": "https://tik.porn",
+      "iconUrl": "https://tik.porn/favicon-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/tikp.cine"
+    },
+    {
+     "id": "tiktokporn",
+      "name": "TikTok Porn",
+      "version": "1.0.0",
+      "iconUrl": "https://tik-tok.porn/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/tiktokp.cine"
     }
   ]
 }

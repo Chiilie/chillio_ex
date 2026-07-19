@@ -1,0 +1,40 @@
+{
+  "name": "AV Short",
+  "plugins": [
+    {
+      "id": "kinkgrid",
+      "name": "KinkGrid",
+      "version": "1.0.0",
+      "iconUrl": "https://www.kinkgrid.com/favicon.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/kgrid.cine"
+    },
+    {
+      "id": "viralxxxporn",
+      "name": "ViralXXXPorn",
+      "version": "1.0.2",
+      "iconUrl": "https://viralxxxporn.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/vxp.cine"
+    },
+    {
+      "id": "mylust",
+      "name": "MyLust",
+      "version": "1.0.1",
+      "iconUrl": "https://mylust.com/static/images/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/mlust.cine"
+    },
+    {
+      "id": "naughtyreel",
+      "name": "NaughtyReel",
+      "version": "1.0.0",
+      "iconUrl": "https://www.naughtyreel.com/favicon-32x32.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/nreel.cine"
+    },
+    {
+      "id": "shorts_xxx",
+      "name": "Shorts.XXX",
+      "version": "1.0.0",
+      "iconUrl": "https://www.shorts.xxx/favicon-32x32.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/sxx.cine"
+    }
+  ]
+}

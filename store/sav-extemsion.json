@@ -56,6 +56,13 @@
       "version": "1.0.0",
       "iconUrl": "https://static.waptap.com/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/wapt.cine"
+    },
+    {
+      "id": "pinporn",
+      "name": "PinPorn",
+      "version": "1.0.0",
+      "iconUrl": "https://pin.porn/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/pinp.cine"
     }
   ]
 }

@@ -63,6 +63,13 @@
       "version": "1.0.0",
       "iconUrl": "https://pin.porn/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/pinp.cine"
+    },
+    {
+      "id": "fikfap",
+      "name": "FikFap",
+      "version": "1.0.0",
+      "iconUrl": "https://fikfap.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/fikf.cine"
     }
   ]
 }

@@ -49,6 +49,13 @@
       "version": "1.0.0",
       "iconUrl": "https://tik-tok.porn/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/tiktokp.cine"
+    },
+    {
+     "id": "waptap",
+      "name": "Waptap",
+      "version": "1.0.0",
+      "iconUrl": "https://static.waptap.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/wapt.cine"
     }
   ]
 }

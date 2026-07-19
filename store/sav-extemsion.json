@@ -35,6 +35,13 @@
       "version": "1.0.0",
       "iconUrl": "https://www.shorts.xxx/favicon-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/sxx.cine"
+    },
+    {
+      "id": "tikporn",
+      "name": "Tik.Porn",
+      "version": "1.0.0",
+      "iconUrl": "https://tik.porn",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/tikp.cine"
     }
   ]
 }

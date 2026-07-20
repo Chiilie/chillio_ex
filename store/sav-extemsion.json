@@ -70,6 +70,20 @@
       "version": "1.0.0",
       "iconUrl": "https://fikfap.com/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/fikf.cine"
+    },
+    {
+      "id": "wanwuu",
+      "name": "玩物社区",
+      "version": "1.0.0",
+      "iconUrl": "https://wanwuu.com/static/web/images/favicon.ico?v=1.4.1",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/wanwuu.cine"
+    },
+    {
+      "id": "xreels",
+      "name": "XReels",
+      "version": "1.0.0",
+      "iconUrl": "https://xreels.app/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/xreels.cine"
     }
   ]
 }

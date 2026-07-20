@@ -84,6 +84,13 @@
       "version": "1.0.0",
       "iconUrl": "https://xreels.app/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/xreels.cine"
+    },
+    {
+      "id": "chigawang",
+      "name": "57吃瓜网",
+      "version": "1.0.0",
+      "iconUrl": "https://chigawang.com/uploads/favicon-32-1784329074405.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/chigawang.cine"
     }
   ]
 }

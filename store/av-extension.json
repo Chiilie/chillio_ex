@@ -105,6 +105,13 @@
       "version": "1.0.0",
       "iconUrl": "https://mansitegcdn.metartnetwork.com/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/sart.cine"
+    },
+     {
+      "id": "rule34video",
+      "name": "Rule34Video",
+      "version": "1.0.0",
+      "iconUrl": "https://rule34video.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/34v.cine"
     }
   ]
 }

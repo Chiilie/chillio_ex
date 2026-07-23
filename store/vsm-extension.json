@@ -35,6 +35,13 @@
       "version": "1.0.1",
       "iconUrl": "https://dramangan.org/static/images/favicon.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/drm.cine"
+    },
+     {
+     "id": "shortflix",
+      "name": "Shortflix"
+      "version": "1.2.3",
+      "iconUrl": "https://www.shortflix.net/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/sof.cine"
     }
   ]
 }

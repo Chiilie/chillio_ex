@@ -98,6 +98,13 @@
       "version": "1.0.0",
       "iconUrl": "https://nuditok.com/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/nuditok.cine"
+    },
+    {
+      "id": "sexydixy",
+      "name": "SexyDixy",
+      "version": "1.0.0",
+      "iconUrl": "https://sexydixy-assets.b-cdn.net/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/sedi.cine"
     }
   ]
 }

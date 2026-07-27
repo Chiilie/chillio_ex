@@ -88,9 +88,16 @@
     {
       "id": "chigawang",
       "name": "57吃瓜网",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "iconUrl": "https://chigawang.com/uploads/favicon-32-1784329074405.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/chigawang.cine"
+    },
+    {
+      "id": "nuditok",
+      "name": "NudiTok",
+      "version": "1.0.0",
+      "iconUrl": "https://nuditok.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/nuditok.cine"
     }
   ]
 }

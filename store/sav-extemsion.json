@@ -105,6 +105,13 @@
       "version": "1.0.0",
       "iconUrl": "https://sexydixy-assets.b-cdn.net/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/sedi.cine"
+    },
+    {
+      "id": "fiqfuq",
+      "name": "FiqFuq",
+      "version": "1.0.0",
+      "iconUrl": "https://fiqfuq.com/icons/app-512.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/fifu.cine"
     }
   ]
 }

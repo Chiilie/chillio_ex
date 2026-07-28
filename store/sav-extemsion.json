@@ -119,6 +119,13 @@
       "version": "1.0.0",
       "iconUrl": "https://onlytik.com/images/favicon/android-icon-192x192.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/ontik.cine"
+    },
+    {
+      "id": "freaktok",
+      "name": "FreakTok",
+      "version": "1.0.1",
+      "iconUrl": "https://freaktok.com/favicon.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/fretok.cine"
     }
   ]
 }

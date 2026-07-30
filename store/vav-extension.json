@@ -56,6 +56,13 @@
       "version": "1.0.0",
       "iconUrl": "https://javvmoi.com/wp-content/uploads/2025/08/cropped-sua-lai-logo-da-tao_-1-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/jam.cine"
+    },
+     {
+      "id": "mejav",
+      "name": "Mejav TV",
+      "version": "1.0.0",
+      "iconUrl": "https://mejav.tv/storage/uploads/logo/favicon-1756875376.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/mja.cine"
     }
   ]
 }

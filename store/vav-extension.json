@@ -47,8 +47,15 @@
       "id": "vlxvn",
       "name": "VLXVN",
       "version": "1.0.1",
-      "iconUrl": "hhttps://vlxvn.live/wp-content/uploads/2025/12/cropped-favicon-192x192.png",
+      "iconUrl": "https://vlxvn.live/wp-content/uploads/2025/12/cropped-favicon-192x192.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/vlxn.cine"
+    },
+     {
+      "id": "javvmoi",
+      "name": "JAVVMOI.COM",
+      "version": "1.0.0",
+      "iconUrl": "https://javvmoi.com/wp-content/uploads/2025/08/cropped-sua-lai-logo-da-tao_-1-32x32.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/jam.cine"
     }
   ]
 }

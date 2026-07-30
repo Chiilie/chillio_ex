@@ -81,7 +81,7 @@
      {
       "id": "webnovel",
       "name": "Webnovel.vn",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "iconUrl": "https://cdn.webnovel.vn/img/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/novel/vn/wno.cine"
     }

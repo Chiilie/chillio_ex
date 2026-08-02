@@ -63,6 +63,13 @@
       "version": "1.0.0",
       "iconUrl": "https://mejav.tv/storage/uploads/logo/favicon-1756875376.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/mja.cine"
-    }
+    },
+     {
+      "id": "mesex",
+      "name": "MeSex",
+      "version": "1.0.0",
+      "iconUrl": "https://www.mesex.tv/storage/uploads/logo/favicon-1754546977.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/mes.cine"
+    
   ]
 }

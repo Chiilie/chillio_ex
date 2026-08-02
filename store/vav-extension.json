@@ -46,7 +46,7 @@
      {
       "id": "vlxvn",
       "name": "VLXVN",
-      "version": "1.0.3",
+      "version": "1.0.6",
       "iconUrl": "https://vlxvn.live/wp-content/uploads/2025/12/cropped-favicon-192x192.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/vlxvn.cine"
     },
@@ -70,6 +70,13 @@
       "version": "1.0.0",
       "iconUrl": "https://www.mesex.tv/storage/uploads/logo/favicon-1754546977.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/mes.cine"
-    
+    },
+     {
+      "id": "xnhau",
+      "name": "Xnhau",
+      "version": "1.0.0",
+      "iconUrl": "https://xnhau.art/favicon.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/vn/xnhau.cine"
+    }
   ]
 }

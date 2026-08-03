@@ -77,6 +77,13 @@
       "version": "1.0.0",
       "iconUrl": "https://xnhau.art/favicon.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/vn/xnhau.cine"
+    },
+     {
+      "id": "phimjavs",
+      "name": "PHIMJAVS.BLOG",
+      "version": "1.0.0",
+      "iconUrl": "https://phimjavs.blog/favicon.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/vn/pjas.cine"
     }
   ]
 }

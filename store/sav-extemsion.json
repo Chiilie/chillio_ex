@@ -130,9 +130,9 @@
     {
       "id": "leakgallery",
       "name": "LeakGallery",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "iconUrl": "https://leakgallery.com/icons/favicon-32x32.png",
-      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/fretok.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/lega.cine"
     }
   ]
 }

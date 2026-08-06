@@ -147,6 +147,13 @@
       "version": "1.0.0",
       "iconUrl": "https://mat6tube.com/static/extend/dark/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/m6t.cine"
+    },
+     {
+      "id": "topvid",
+      "name": "Topvid",
+      "version": "1.0.0",
+      "iconUrl": "https://topvid.tv/favicon/favicon-32x32.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/topv.cine"
     }
   ]
 }

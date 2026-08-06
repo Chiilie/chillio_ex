@@ -154,6 +154,13 @@
       "version": "1.0.0",
       "iconUrl": "https://topvid.tv/favicon/favicon-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/topv.cine"
+    },
+     {
+      "id": "pat",
+      "name": "Pat",
+      "version": "1.0.0"
+      "iconUrl": "https://pat.com/assets/favicon.svg",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/pat.cine"
     }
   ]
 }

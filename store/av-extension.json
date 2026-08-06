@@ -133,6 +133,13 @@
       "version": "1.0.3",
       "iconUrl": "https://es.erome.com/favicon-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/erm.cine"
+    },
+     {
+      "id": "eporner",
+      "name": "EPorner",
+      "version": "1.0.4",
+      "iconUrl": "https://www.eporner.com/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/epo.cine"
     }
   ]
 }

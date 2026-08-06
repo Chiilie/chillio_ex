@@ -126,6 +126,13 @@
       "version": "1.0.0",
       "iconUrl": "https://www.bellesa.co/assets/img/favicon.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/bellesa.cine"
+    },
+     {
+      "id": "erome",
+      "name": "EroMe",
+      "version": "1.0.3",
+      "iconUrl": "https://es.erome.com/favicon-32x32.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/erm.cine"
     }
   ]
 }

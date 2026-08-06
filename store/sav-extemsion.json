@@ -126,6 +126,13 @@
       "version": "1.0.1",
       "iconUrl": "https://freaktok.com/favicon.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/fretok.cine"
+    },
+    {
+      "id": "leakgallery",
+      "name": "LeakGallery",
+      "version": "1.0.2",
+      "iconUrl": "https://leakgallery.com/icons/favicon-32x32.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/fretok.cine"
     }
   ]
 }

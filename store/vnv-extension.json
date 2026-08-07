@@ -91,6 +91,13 @@
       "version": "1.0.0",
       "iconUrl": "https://sstruyen.lat/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/novel/vn/sst.cine"
+    },
+     {
+      "id": "truyencom",
+      "name": "Truyện Com",
+      "version": "1.0.0",
+      "iconUrl": "https://truyencom.com/favicon-32x32-1.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/novel/vn/trcom.cine"
     }
   ]
 }

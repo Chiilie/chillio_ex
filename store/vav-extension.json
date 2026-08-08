@@ -98,6 +98,13 @@
       "version": "1.0.0",
       "iconUrl": "https://sexybeam.me/wp-content/uploads/2025/04/cropped-naiconvl34-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/sbeam.cine"
+    },
+     {
+      "id": "qmh",
+      "name": "QMH Shorts",
+      "version": "1.0.0",
+      "iconUrl": "https://qmh.red/mobile-logo.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/qmh.cine"
     }
   ]
 }

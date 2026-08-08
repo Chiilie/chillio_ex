@@ -41,14 +41,14 @@
      "name": "Dâm Cô Nương",
      "version": "1.0.1",
       "iconUrl": "https://www.damconuong.xyz/wp-content/uploads/2023/12/cropped-favicon-32x32.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mg/dcon.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/dcon.cine"
     },
     {
      "id": "thienthaitruyen",
     "name": "Thiên Thai Truyện",
     "version": "1.0.0",
-      "iconUrl": "https://thienthaitruyen12.com/images/favicon-32x32.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mg/ttt.cine"
+    "iconUrl": "https://thienthaitruyen12.com/images/favicon-32x32.png",
+    "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/ttt.cine"
     }
 	  ]
 }

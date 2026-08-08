@@ -158,7 +158,7 @@
      {
       "id": "pat",
       "name": "Pat",
-      "version": "1.0.0"
+      "version": "1.0.0",
       "iconUrl": "https://pat.com/assets/favicon.svg",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/en/pat.cine"
     }

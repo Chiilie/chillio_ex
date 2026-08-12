@@ -4,16 +4,16 @@
     {
       "id": "nettruyen",
       "name": "NetTruyen",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "iconUrl": "https://nettruyen.gg/assets/images/landings/nettruyen-fav.png",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mg/nt.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/nt.cine"
     },
     {
       "id": "truyenqq",
       "name": "TruyenQQ",
       "version": "1.0.2",
       "iconUrl": "https://truyenqqko.com/favicon.ico",
-      "scriptUrl": "https://github.com/Cine-art/Cine/raw/refs/heads/main/ex/mg/qq.cine"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/qq.cine"
     },
     {
       "id": "sayhentai",

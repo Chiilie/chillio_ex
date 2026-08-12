@@ -49,6 +49,13 @@
     "version": "1.0.0",
     "iconUrl": "https://thienthaitruyen12.com/images/favicon-32x32.png",
     "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/ttt.cine"
+    },
+    {
+     "id": "doctruyen3qhub4",
+    "name": "DocTruyen3Q",
+    "version": "1.0.0",
+    "iconUrl": "https://doctruyen3qhub4.com/images/logo/icon/48x48.png",
+    "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/3q.cine"
     }
 	  ]
 }

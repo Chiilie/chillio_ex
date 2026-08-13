@@ -42,6 +42,13 @@
       "version": "1.2.3",
       "iconUrl": "https://www.shortflix.net/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/sof.cine"
+    },
+     {
+     "id": "tvon",
+      "name": "TVON",
+      "version": "1.0.1",
+      "iconUrl": "https://www.tvon.vn/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/short/vn/ton.cine"
     }
   ]
 }

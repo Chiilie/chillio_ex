@@ -105,6 +105,13 @@
       "version": "1.0.0",
       "iconUrl": "https://qmh.red/mobile-logo.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/vn/qmh.cine"
+    },
+     {
+      "id": "viwap",
+      "name": "ViWap",
+      "version": "1.0.0",
+      "iconUrl": "https://x.viwap.blog/favicon.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/short/vn/viwap.cine"
     }
   ]
 }

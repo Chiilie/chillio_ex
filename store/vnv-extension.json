@@ -27,7 +27,7 @@
       "name": "WikiCV",
       "version": "1.0.0",
       "iconUrl": "https://wikicv.net/static/img/favicon.ico",
-      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/novel/vn/wcv.js"
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/novel/vn/wcv.cine"
     },
     {
       "id": "truyennet",

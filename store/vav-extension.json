@@ -119,6 +119,13 @@
         "version": "1.0.0",
       "iconUrl": "https://subjav.rest/wp-content/uploads/2024/08/fav24.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/suja.cine"
+    },
+     {
+      "id": "viet69z",
+      "name": "VIET69",
+      "version": "1.0.1",
+      "iconUrl": "https://viet69z.to/wp-content/uploads/2023/05/logo.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/v6.cine"
     }
   ]
 }

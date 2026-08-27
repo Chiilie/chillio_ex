@@ -37,6 +37,13 @@
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/px.cine"
     },
     {
+      "id": "clbpxV",
+      "name": "CLB Phim Xưa VIP",
+      "version": "1.6",
+      "iconUrl": "https://raw.githubusercontent.com/youngbi/repo/main/plugins/clbpx.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/pxvip.cine"
+    },
+    {
       "id": "vmttv",
       "name": "VMT TV",
       "version": "1.0.2",

@@ -126,6 +126,13 @@
       "version": "1.0.1",
       "iconUrl": "https://viet69z.to/wp-content/uploads/2023/05/logo.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/v6.cine"
+    },
+     {
+      "id": "javninja",
+      "name": "Jav Ninja",
+      "version": "1.2.0",
+      "iconUrl": "https://jav.ninja/favicon-192x192.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/jan.cine"
     }
   ]
 }

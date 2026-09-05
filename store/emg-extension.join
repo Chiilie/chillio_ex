@@ -1,0 +1,19 @@
+{
+  "name": "Gloabal Manga",
+  "plugins": [
+    {
+      "id": "buondua",
+      "name": "Buon Dua",
+      "version": "1.0.0",
+      "iconUrl": "https://buondua.com/templates/duachua/watermelon-icon.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/en/buondua.cine"
+    },
+    {
+      "id": "misskon",
+      "name": "MissKon",
+      "version": "1.0.1",
+      "iconUrl": "https://misskon.com/img/logo.2026.v5.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/en/mk.cine"
+    }
+	  ]
+}

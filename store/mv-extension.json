@@ -60,14 +60,14 @@
     {
       "id": "bogorraincake",
       "name": "Motchill",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "iconUrl": "https://bogorraincake.com/wp-content/uploads/2024/12/cropped-favicon2-32x32.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/mc.cine"
     },
     {
       "id": "motchilll",
       "name": "MotChilll",
-      "version": "1.0.2",
+      "version": "1.0.1",
       "iconUrl": "https://motchilli.ac/favicon.ico",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/mcc.cine"
     },

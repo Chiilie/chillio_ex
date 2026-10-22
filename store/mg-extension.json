@@ -56,6 +56,13 @@
     "version": "1.0.1",
     "iconUrl": "https://doctruyen3qhub4.com/images/logo/icon/48x48.png",
     "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/3q.cine"
+    },
+    {
+    "id": "vietmanhwa",
+    "name": "Việt Manhwa",
+	"version": "1.0.0",
+    "iconUrl": "https://vietmanhwa.com/favicon.svg",
+    "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/vn/vmw.cine"
     }
 	  ]
 }

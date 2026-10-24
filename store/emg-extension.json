@@ -42,6 +42,13 @@
         "version": "1.0.2",
         "iconUrl": "https://lewdmanhwa.com/branding/lewdmanhwa/icon.svg",
       	"scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/en/lewdmw.cine"
+    },
+    {
+    	"id": "mangadistrict",
+        "name": "Manga District",
+        "version": "1.0.3",
+        "iconUrl": "https://mangadistrict.com/wp-content/uploads/2026/10/MANGADISTRICT-LOGO-670.png",
+      	"scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/en/mgd.cine"
     }
 	  
 	  ]

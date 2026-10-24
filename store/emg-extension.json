@@ -30,7 +30,7 @@
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/en/ht20.cine"
     },
     {
-    	id": "mhw18cc",
+    	"id": "mhw18cc",
         "name": "Manhwa18 CC",
         "version": "1.0.0",
         "iconUrl": "https://manhwa18.cc/images/manhwa18.png",

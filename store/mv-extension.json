@@ -175,6 +175,13 @@
       "version": "1.0.0",
       "iconUrl": "https://tuphim.org",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/tuph.cine"
+    },
+     {
+      "id": "coigiday",
+      "name": "Coi Gì Đây",
+      "version": "1.0.1",
+      "iconUrl": "https://www.coigiday.xyz/logo2.png",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/tuph.cine"
     }
   ]
 }

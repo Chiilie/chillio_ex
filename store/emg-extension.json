@@ -49,6 +49,13 @@
         "version": "1.0.3",
         "iconUrl": "https://mangadistrict.com/wp-content/uploads/2026/10/MANGADISTRICT-LOGO-670.png",
       	"scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/en/mgd.cine"
+    },
+    {
+    	"id": "manhwaread",
+        "name": "ManhwaRead",
+        "version": "1.0.5",
+        "iconUrl": "https://manhwaread.com/favicon.ico",
+      	"scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/manga/en/mwr.cine"
     }
 	  
 	  ]

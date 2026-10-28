@@ -182,6 +182,13 @@
       "version": "1.0.1",
       "iconUrl": "https://www.coigiday.xyz/logo2.png",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/cgd.cine"
+    },
+     {
+      "id": "3dsieunet",
+        "name": "3D Siêu Nét",
+        "version": "1.0.0",
+        "iconUrl": "https://3dsieunet.com/favicon.svg",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/cine/vn/3dsn.cine"
     }
   ]
 }

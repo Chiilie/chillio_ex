@@ -1,1 +1,19 @@
-
+{
+  "name": "China AV-Movie",
+  "plugins": [
+    {
+      "id": "huangguo_ai",
+      "name": "Huangguo Short Drama",
+      "version": "1.8.3",
+      "iconUrl": IMG_PROXY + encodeURIComponent(BASE + "/static/web/images/logo-huangguo.png"),
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/cn/huangguo.cine"
+    },
+    {
+      "id": "chigawang",
+      "name": "chigawang",
+      "version": "1.0.1",
+      "iconUrl": "https://wmovies.org/favicon.ico",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/cn/chigawang.cine"
+    }
+  ]
+}

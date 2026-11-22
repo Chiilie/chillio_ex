@@ -140,6 +140,13 @@
         "version": "1.0.0",
         "iconUrl": "https://javmit.com/wp-content/uploads/2026/04/cropped-red-play-icon-circle-with-white-triangle-middle_609989-1987-192x192.jpg",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/jmit.cine"
+    },
+     {
+     "id": "phimsexai",
+        "name": "PhimSexAI",
+        "version": "1.0.0",
+        "iconUrl": BASE_URL + "/wp-content/uploads/cropped-icon-192x192.jpg",
+      "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/pxai.cine"
     }
   ]
 }

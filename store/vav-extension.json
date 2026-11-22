@@ -145,7 +145,7 @@
      "id": "phimsexai",
         "name": "PhimSexAI",
         "version": "1.0.0",
-        "iconUrl": BASE_URL + "/wp-content/uploads/cropped-icon-192x192.jpg",
+        "iconUrl": "https://phimsexai.xyz/wp-content/uploads/cropped-icon-192x192.jpg",
       "scriptUrl": "https://github.com/Chiilie/chillio_cine/raw/refs/heads/main/repo/extension/adu/vn/pxai.cine"
     }
   ]
